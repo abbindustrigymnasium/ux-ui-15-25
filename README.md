@@ -35,6 +35,8 @@ Vi använde Inter på grund av den moderna och stilrena designen som ungdomar lo
 
 ### 3. Återkommande komponenter
 <img src="https://github.com/user-attachments/assets/469cda3c-4475-4a8c-83ac-906a3d879c5b" alt="Image 7" width="500" />
+<img src="https://github.com/user-attachments/assets/1f3cdd6d-6a9a-43d8-a607-1dc01cbb3807" alt="Image 7" width="500" />
+
 
 De flesta sidor ska innehålla en huvudmeny, eller en toppmeny (för smidig navigering på hemsidan) som placeras högst upp på sidan och följer med dynamiskt vid skrollning.
 
