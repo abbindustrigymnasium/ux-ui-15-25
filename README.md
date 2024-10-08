@@ -1,3 +1,27 @@
+<div align="center">
+  <h3>Links</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+
+  <!-- Main Design Link (red) -->
+  <a href="https://www.figma.com/design/KMdJmgbmd6XMh6YVz48Il7/BakeHub?node-id=0-1&t=q2TCKMJY1Dmp1P3x-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Main_Design-gray?logo=figma&logoColor=white&color=red" alt="Main Design">
+  </a>
+
+  <!-- Site Map Link (yellow) -->
+  <a href="https://www.figma.com/board/zpD0H1mzyLozfFPzfbFOub/bake-hub?node-id=0-1&t=NNugScjNMS9tW3tW-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Site_Map-gray?logo=figma&logoColor=white&color=yellow" alt="Site Map">
+  </a>
+
+  <!-- Wireframe Link (blue) -->
+  <a href="https://www.figma.com/design/NJu3A50czTfTjWYKLxzD0c/BakeHub-Wireframe?t=NNugScjNMS9tW3tW-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Wireframe-gray?logo=figma&logoColor=white&color=blue" alt="Wireframe">
+  </a>
+
+  </div>
+</div>
+
+</div>
+
 # Projektbeskrivning
 <img src="https://github.com/user-attachments/assets/1c2c4dc6-7c3c-4334-9e31-b68889c9ebf5" alt="Description of Image" width="500" />
 
